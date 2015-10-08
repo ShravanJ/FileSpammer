@@ -19,11 +19,6 @@ public class FileSpammer
             str = "FILESPAM" + (int)(d1 * 100.0) + ".txt";
             Thread.sleep(125);
             PrintWriter localPrintWriter = new PrintWriter(str);
-            for (int i = 0; i < 100; i++)
-            {
-              double d2 = Math.random() + Double.MAX_VALUE + Double.MIN_VALUE;
-              System.out.println(d2);
-            }
          }
          catch (Exception e)
          {
