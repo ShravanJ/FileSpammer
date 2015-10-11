@@ -6,3 +6,7 @@ We are pretty sure if you leave this open for long enough you should be able to 
 Effectiveness
 =============
 We are yet to evaluate how effective this program actually is in stress testing a hard drive. We will be conducting tests on OS X, Windows, and Linux based machines with the HFS+, NTFS, and ext4fs filesystems respectively to see how this program actually affects the stress on a hard disk. 
+
+Rewrite coming soon
+==================
+This implementation is pretty bad. The concept will remain the same but almost all of the source code will be changed.
