@@ -10,3 +10,7 @@ We are yet to evaluate how effective this program actually is in stress testing 
 Rewrite coming soon
 ==================
 This implementation is pretty bad. The concept will remain the same but almost all of the source code will be changed.
+
+jDiskStressTester
+=================
+jDiskStressTester, a conceptual successor to FileSpammer, has been released! It features the ability to specify how many files you want created, as well as a timer to see how long it took to generate those files along with the ability to enable/disable verbose file creation print outs. *THE CODE FOR FILESPAMMER WILL NO LONGER BE MAINTAINED. IT WILL REMAIN ON GITHUB ONLY FOR REFERENCE.*
